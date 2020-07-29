@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Start install node
 In the project directory, you can run:
-`npx install`
+### `npx install`
 ## Available Scripts
 
 In the project directory, you can run:
