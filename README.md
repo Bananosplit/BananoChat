@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Start install node
+In the project directory, you can run:
+### `npx install`
 ## Available Scripts
 
 In the project directory, you can run:
