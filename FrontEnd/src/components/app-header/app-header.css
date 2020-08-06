@@ -1,0 +1,7 @@
+.app-header{
+    width: 100%;
+    min-height: 50px;
+    background: #00782D;
+    display: flex;
+}
+

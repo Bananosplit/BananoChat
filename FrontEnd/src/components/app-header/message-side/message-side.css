@@ -1,0 +1,31 @@
+.message-side{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.name-chat{
+    margin-left: 5%;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.set-block{
+    display: flex;
+    margin-right: 5%;
+    width: 60%;
+    justify-content: flex-end;
+
+}
+
+.setting-chat{
+    padding-left: 5%;
+}
+
+.status {
+    margin-left: 5%;
+}
+
+
